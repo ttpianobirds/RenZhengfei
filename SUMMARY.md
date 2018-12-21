@@ -1,6 +1,6 @@
 # Summary
 
-* [简介](README.md)
+## 任正非思想之路
 
-## 第一章
+* [简介](README.md)
 
